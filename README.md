@@ -64,8 +64,8 @@ parâmetros necessários a depender da opção.
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/link_da_rayanne">
-        <img src="https://cdn-icons-png.flaticon.com/512/6522/6522516.png" width="100px;" alt="Foto de perfil do Rayanne Fidelis da Conceiçao no GitHub"/><br>
+      <a href="https://github.com/Rayanne2003">
+        <img src="https://github.com/Rayanne2003.png" width="100px;" alt="Foto de perfil do Rayanne Fidelis da Conceiçao no GitHub"/><br>
         <sub>
           <b>Rayanne Fidelis da Conceiçao</b>
         </sub>
